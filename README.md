@@ -8,6 +8,9 @@ https://makersportal.com/blog/2019/11/11/raspberry-pi-python-accelerometer-gyros
 The Database I used for testing:
 https://www.freemysqlhosting.net/
 
+Installing Mysql connector for python:
+sudo pip install pymysql
+
 **Note:**
 
   1. The code and the library of MPU-6050 must be on the same directory
