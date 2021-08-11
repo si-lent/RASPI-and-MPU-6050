@@ -9,7 +9,7 @@ The Database I used for testing:
 https://www.freemysqlhosting.net/
 
 Installing Mysql connector for python:
-sudo pip install pymysql
+```sudo python3 -m pip install pymysql```
 
 **Note:**
 
